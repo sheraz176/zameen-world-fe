@@ -1,0 +1,351 @@
+
+
+
+.text-white {
+    --tw-text-opacity: 1;
+    color: rgb(255 255 255 / var(--tw-text-opacity));
+}
+
+
+.py-\[0\.6rem\] {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+
+.px-\[2\.5rem\] {
+    padding-left: 2.5rem;
+    padding-right: 2.5rem;
+}
+
+.bg-\[\#33a137\] {
+    --tw-bg-opacity: 1;
+    background-color:#6cace3;
+}
+
+.gap-2 {
+    gap: 0.5rem;
+}
+
+.justify-between {
+    justify-content: space-between;
+}
+
+.items-center {
+    align-items: center;
+}
+
+.flex {
+    display: flex;
+}
+.gap-8 {
+    gap: 2rem;
+}
+.gap-6 {
+    gap: 1.5rem;
+}
+.uppercase {
+    text-transform: uppercase;
+}
+
+.gap-5 {
+    gap: 1.25rem;
+}
+.uppercase {
+    text-transform: uppercase;
+}
+.dropdown-parent {
+    position: relative;
+    cursor: pointer;
+}
+.dropdown-parent:hover .dropdown-child{
+display: block;
+}
+.capitalize {
+    text-transform: capitalize;
+}
+.dropdown-child > div {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    background-color: white;
+    padding: 0.7rem 0;
+    border-radius: 0.4rem;
+    font-size: 13px;
+}
+.py-1\.5 {
+    padding-top: 0.375rem;
+    padding-bottom: 0.375rem;
+}
+
+.px-3 {
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+.\!pt-\[1rem\] {
+    padding-top: 1rem !important;
+}
+
+.w-\[11\.6rem\] {
+    width: 11.6rem;
+}
+.dropdown-child {
+    display: none;
+    position: absolute;
+    min-width:10rem;
+    top: 100%;
+    right: 0;
+    color: #313131;
+    font-size: 0.925rem;
+    z-index: 100;
+}
+.py-1\.5 {
+    padding-top: 0.375rem;
+    padding-bottom: 0.375rem;
+}
+.px-3 {
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
+}
+.bg-gray-50 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(249 250 251 / var(--tw-bg-opacity));
+}
+
+.border {
+    border-width: 1px;
+}
+
+.rounded-md {
+    border-radius: 0.375rem;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.px-3 {
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+navbar .topbar{
+    font-size: 14px;
+}
+.py-1 {
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
+}
+
+
+.px-2 {
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+}
+
+.border-white {
+    --tw-border-opacity: 1;
+    border-color: rgb(255 255 255 / var(--tw-border-opacity));
+}
+
+.border {
+    border-width: 1px;
+}
+
+.rounded-md {
+    border-radius: 0.375rem;
+}
+.outline-none {
+    outline: 2px solid transparent;
+    outline-offset: 2px;
+}
+.outline-none::placeholder{
+    color: white;
+}
+
+.text-white {
+    --tw-text-opacity: 1;
+    color: rgb(255 255 255 / var(--tw-text-opacity));
+}
+
+.text-xs {
+    font-size: 0.75rem;
+    line-height: 1rem;
+}
+
+.bg-transparent {
+    background-color: transparent;
+}
+
+.border-none {
+    border-style: none;
+}
+
+.w-\[6rem\] {
+    width: 6rem;
+}
+.text-\[0\.8rem\] {
+    font-size: 0.7rem;
+}
+
+
+
+.text-black {
+    --tw-text-opacity: 1;
+    color: rgb(0 0 0 / var(--tw-text-opacity));
+}
+
+
+.text-\[0\.8rem\] {
+    font-size: 0.8rem;
+}
+
+.py-1 {
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
+}
+
+.px-2 {
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+}
+
+.bg-white {
+    --tw-bg-opacity: 1;
+    background-color: rgb(255 255 255 / var(--tw-bg-opacity));
+}
+
+.rounded-\[0\.25rem\] {
+    border-radius: 0.25rem;
+    border: none;
+}
+.object-cover {
+    object-fit: cover;
+}
+.xl-block {
+    display: none;
+}
+.py-\[0\.5rem\] {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+
+.px-\[2\.5rem\] {
+    padding-left: 2.5rem;
+    padding-right: 2.5rem;
+}
+
+.border-b {
+    border-bottom-width: 1px;
+}
+navbar header{
+    font-size: 14px;
+    color: rgb(132 132 132 );
+}
+.overflow-hidden {
+    overflow: hidden!important;
+}
+.gap-12 {
+    gap: 2rem;
+}
+
+
+.items-center {
+    align-items: center;
+}
+.w-\[0px\] {
+    width: 0px;
+}
+.bg-\[\#ccc\] {
+    --tw-bg-opacity: 1;
+    background-color: rgb(204 204 204 / var(--tw-bg-opacity));
+}
+
+
+.w-\[1px\] {
+    width: 1px;
+}
+
+.h-\[2ch\] {
+    height: 2ch;
+}
+.mr-\[1rem\] {
+    margin-right: 1rem;
+}
+.sibling {
+    transition: width 0.2s ease-in, max-width 0.2s ease-in;
+}
+.text-\[\#33a137\] {
+    --tw-text-opacity: 1;
+    color: rgb(51 161 55 / var(--tw-text-opacity));
+}
+
+.width-toggle {
+    width: 18rem !important;
+}
+.font-semibold {
+    font-weight: 600;
+}
+
+.ml-\[2rem\] {
+    margin-left: 2rem;
+}
+.border-b {
+    border-bottom: 1px  solid #3131313d;
+}
+.hamburger{
+    background-color: transparent;
+    border: none;
+    padding:0px;
+    line-height: 0px;
+}
+.side-nav-links a{
+    text-transform: uppercase;
+    text-decoration: none;
+  color: #041e42;
+  width: 100%;
+  padding-bottom: 8px;
+  display: block;
+  font-size: 13px;
+}
+.side-nav-links button{
+    text-transform: uppercase;
+    text-decoration: none;
+  color: #041e42;
+  width: 100%;
+  padding-bottom: 8px;
+  display: block;
+  font-size: 13px;
+}
+.side-nav-links li:not(:last-child){
+    border-bottom: 1px solid #041e42 ;
+   ;
+}
+.sub-child li{
+    border-bottom: none !important;
+}
+.sub-child{
+  
+    padding: 8px 16px;
+    margin-top: 16px;
+    text-transform: uppercase;
+    border: none;
+    background: #f5f5f5;
+    color: #767676;
+}
+.xl-hidden{
+    display: flex;
+}
+@media (min-width: 1280px)
+{
+.xl-block {
+    display: block;
+}
+.xl-hidden{
+    display: none;
+}
+}
